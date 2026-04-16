@@ -23,7 +23,7 @@ AI-powered quantitative risk analysis platform combining technical indicators, r
 ## 🛠️ Tech Stack
 
 **Languages:** C++, Python, Java
-**Core Areas:** Data Structures & Algorithms, AI/ML, Probability & Statistics, Time Series, Linear Algebra, Numerical Methods
+**Core Areas:** Data Structures & Algorithms, AI/ML, Linear Algebra, Probability & Statistics, Numerical Methods
 **Tools:** Pandas, NumPy, Streamlit, SQL
 
 ---
