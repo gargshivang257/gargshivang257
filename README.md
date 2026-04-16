@@ -2,8 +2,7 @@
 
 🚀 AI Reasoning Enthusiast | Numerical Computing | Competitive Programmer
 
-I am a B.Tech student in Mathematics & Computing, passionate about solving complex problems using data, algorithms, and high-performance systems. My interests lie at the intersection of machine learning, quantitative finance, and scalable system design. I am actively preparing for internship opportunities starting mid-2026.
-
+I am a B.Tech student in Mathematics & Computing, passionate about solving complex problems through algorithms, mathematical modeling, and high-performance computation. My interests lie in AI reasoning, numerical methods, and efficient algorithm design. I am actively preparing for internship opportunities starting mid-2026.
 ---
 
 ## 🚀 About Me
