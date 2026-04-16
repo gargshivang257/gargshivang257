@@ -3,6 +3,7 @@
 🚀 AI Reasoning Enthusiast | Numerical Computing | Competitive Programmer
 
 I am a B.Tech student in Mathematics & Computing, passionate about solving complex problems through algorithms, mathematical modeling, and high-performance computation. My interests lie in AI reasoning, numerical methods, and efficient algorithm design. I am actively preparing for internship opportunities starting mid-2026.
+
 ---
 
 ## 🚀 About Me
@@ -12,6 +13,7 @@ I am a B.Tech student in Mathematics & Computing, passionate about solving compl
 🏆 Competitive Programming: Practicing algorithmic problem solving on Codeforces with a focus on optimization and time complexity
 
 ---
+
 
 ## 💻 What I'm Working On
 
