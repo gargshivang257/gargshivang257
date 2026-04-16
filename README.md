@@ -39,6 +39,5 @@ AI-powered quantitative risk analysis platform combining technical indicators, r
 
 📧 Email: [gargshivang257@gmail.com](mailto:gargshivang257@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/shivang-garg-6ba57a372/](https://www.linkedin.com/in/shivang-garg-6ba57a372/)
-💻 GitHub: [https://github.com/gargshivang257](https://github.com/gargshivang257)
 
 ---
